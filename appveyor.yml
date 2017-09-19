@@ -1,0 +1,7 @@
+build: off
+
+test_script:
+- echo Test!
+
+artifacts:
+- path: readme.md
